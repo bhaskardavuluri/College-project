@@ -1,0 +1,3 @@
+00 01 10 11
+xx x1 1x xx
+The Naive Bayes Classifier is a simple probabilistic classifier and it has very few number of parameters which are used to build the ML models that can predict at a faster speed than other classification algorithms.
